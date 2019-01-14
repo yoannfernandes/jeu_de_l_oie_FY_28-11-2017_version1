@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1547417908 source:c:\users\yoann\desktop\ludus\code blocks dossiers\carré_magique_en_c\main.c
+	<stdio.h>
+	<stdlib.h>
+
